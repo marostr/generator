@@ -1,0 +1,9 @@
+#Liniowy generator liczb losowych#
+Wylosowane liczby: 66, 3, 33, 55, 69, 75, 73, 38, 56, 82, 
+
+#Systemowy generator liczb losowych#
+Wylosowane liczby: 88 61 80 72 4 96 25 87 14 71 
+
+#Zaawansowany generator liczb losowych#
+Wylosowane liczby: 44, 43, 92, 65, 40, 76, 83, 82, 80, 52, 
+
