@@ -7,7 +7,6 @@
 class Test1 : public absTest {
 /**
 * \class klasa testujaca generator losowy
-* \author Maniek
 * \brief oblicza srednia i mierzy odleglosc od srodka przedzialu
 */
  
