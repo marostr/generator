@@ -3,7 +3,6 @@
 	
 /**
 * \class klasa test dla generatora liczb
-* \author Maniek
 * \brief klasa sprawdzajaca roznice pomiedzy mediana odleglosci pomiedzy liczbami
 * \brief a srednia szerokoscia przedzialu
 */	
