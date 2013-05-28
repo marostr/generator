@@ -5,7 +5,6 @@
 class Test3 : public absTest {
 /**
 * \class Test3
-* \author Maniek
 * \brief klasa testujaca losowosc liczb metoda znajdywania podciagow bitow i podzialu na klasy
 */
 
